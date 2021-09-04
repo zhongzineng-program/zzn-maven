@@ -37,6 +37,7 @@ public class JedisTest {
         jedis.close();
     }
     @Test
+    //使用JedisPool来操作redis
     public void testJedisPool(){
         //声明Redis服务器的地址
         String host = "192.168.117.100";
