@@ -52,5 +52,6 @@ public class JedisTest {
         System.out.println("ping = "+ping);
         //关闭连接
         jedis.close();
+        //v 1.0.3
     }
 }
