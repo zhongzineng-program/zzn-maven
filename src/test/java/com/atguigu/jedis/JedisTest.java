@@ -55,5 +55,6 @@ public class JedisTest {
         //v 1.0.3
         //v 1.0.4 by hot-fix
         //v 1.0.4 by master
+        //测试push到我的github
     }
 }
