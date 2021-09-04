@@ -49,7 +49,7 @@ public class JedisTest {
 
         String ping = jedis.ping();
         System.out.println("ping = "+ping);
-
+        //关闭连接
         jedis.close();
     }
 }
