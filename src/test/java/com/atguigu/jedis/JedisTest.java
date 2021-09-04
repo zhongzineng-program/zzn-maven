@@ -53,5 +53,6 @@ public class JedisTest {
         //关闭连接
         jedis.close();
         //v 1.0.3
+        //v 1.0.4 by hot-fix
     }
 }
